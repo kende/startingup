@@ -23,6 +23,12 @@ end
 
 gem 'jquery-rails'
 gem 'haml-rails'
+gem 'zurb-foundation'
+gem 'css3buttons'
+
+# Authentication
+
+gem 'sorcery'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
